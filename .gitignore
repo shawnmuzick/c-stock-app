@@ -1,0 +1,7 @@
+*.o
+.main.c.*
+*.glade*
+*.png
+*.swp
+keys.c
+/builds
